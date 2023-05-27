@@ -1,0 +1,15 @@
+.filter-year{
+    display: flex;
+    justify-content: space-between;
+}
+
+select{
+    padding: 15px 65px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 700px;
+}
+
+.filter-year p{
+    padding-top: 10px;
+}
