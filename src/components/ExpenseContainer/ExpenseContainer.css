@@ -1,12 +1,9 @@
-.expense-container{
-    width: 800px;
-    margin-top: 44px;
-    background-color: #1A1A1A;
-    color: white;
-    border-radius: 12px;
-    padding: 30px;
-    font-size: 18px;
+.expense-container {
+  width: 800px;
+  margin-top: 44px;
+  background-color: #1a1a1a;
+  color: white;
+  border-radius: 12px;
+  padding: 30px;
+  font-size: 18px;
 }
-
-
-

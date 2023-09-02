@@ -1,14 +1,8 @@
-import { useState } from 'react'
-import './FormTodo.css'
-
-
+import { useState } from "react";
+import "./FormTodo.css";
 
 const FormTodo = (props) => {
-    
+  return <div></div>;
+};
 
-    return <div>
-        
-    </div>
-}
-
-export default FormTodo
+export default FormTodo;
